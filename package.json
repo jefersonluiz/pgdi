@@ -1,0 +1,29 @@
+{
+  "name": "pgdi-library",
+  "version": "1.0.0",
+  "description": "Biblioteca desenvolvida para uso não apenas no Angular como em qualquer projeto.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefersonluiz/pgdi.git"
+  },
+  "keywords": [
+    "echarts",
+    "angular",
+    "datatables",
+    "jquery",
+    "bootstrap",
+    "css",
+    "javascript",
+    "dashboard"
+  ],
+  "author": "Jeferson Luiz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jefersonluiz/pgdi/issues"
+  },
+  "homepage": "https://github.com/jefersonluiz/pgdi#readme"
+}
